@@ -1,0 +1,51 @@
+body{
+	background-image: url("https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg");
+	}
+	#title{
+	margin-top: 10%;
+	color: red;
+	text-align: center;
+	}
+	#description{
+	text-align: center;
+	color: red;
+	}  
+	#survey-form{
+	text-align: center;
+	align-content: center;
+	background: blue;
+	width:60% ;
+	height: 100%;
+	margin-left: 20%;
+	}
+	p{
+	color: white;
+}
+
+form{
+	color: white;
+}
+#submit{
+	background-color:green ;
+	width: 80%;
+	margin-top: 6px;
+}
+#comments{
+	width: 80%;
+	height: 70px;
+
+
+}
+ form {
+	color: white;
+	}
+
+#submit{
+	background-color:green ;
+	width: 80%;
+	margin-top: 6px;
+}
+#comments{
+	width: 80%;
+	height: 70px;
+}
